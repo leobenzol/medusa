@@ -1,5 +1,13 @@
 # @medusajs/types
 
+## 2.13.2
+
+### Patch Changes
+
+- [#14658](https://github.com/medusajs/medusa/pull/14658) [`495b823a370c86c25142e02a5daabfeccdc6e518`](https://github.com/medusajs/medusa/commit/495b823a370c86c25142e02a5daabfeccdc6e518) Thanks [@webgodo](https://github.com/webgodo)! - feat(types): Add `completed_at` filterable property to `FilterableCartProps` interface to enable filtering carts by completion date.
+
+- [#14689](https://github.com/medusajs/medusa/pull/14689) [`6c0990afa9c7df80a8a4da9c3c63f04e02fd5cbb`](https://github.com/medusajs/medusa/commit/6c0990afa9c7df80a8a4da9c3c63f04e02fd5cbb) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(types): make images of product variant optional
+
 ## 2.13.1
 
 ## 2.13.0
